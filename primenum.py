@@ -1,5 +1,5 @@
 n=3
 if(n%2==0):
-    print("yes it is prime")
+    print("yes it is even")
 else:
-    print("noo prime")    
+    print("noo odd")    
